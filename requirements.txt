@@ -1,0 +1,6 @@
+pandas
+plotly
+kagglehub
+feature_engine
+optuna
+scikit-learn
